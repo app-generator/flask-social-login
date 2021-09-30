@@ -135,7 +135,7 @@ The project has a super simple structure, represented as bellow:
 ## Resources
 
 - Free [Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index provided by AppSeed
-- [Flask User Authentication](https://blog.appseed.us/flask-user-authentication-free-sample/) - blog article 
+- [Flask User Authentication](https://blog.appseed.us/flask-user-authentication-free-sample/) - blog article (includes a free sample) 
  
 <br />
 
