@@ -101,6 +101,44 @@ $ # Access the app in browser: HTTPS://127.0.0.1:5000/
 
 <br />
 
+## Code-base structure
+
+The project has a super simple structure, represented as bellow:
+
+```bash
+< PROJECT ROOT >
+   |
+   |-- app/
+   |    |-- static/
+   |    |    |-- <css, JS, images>    # CSS files, Javascripts files
+   |    |
+   |    |-- templates/
+   |    |    |
+   |    |    |-- index.html           # Index File
+   |    |    |-- login.html           # Login Page
+   |    |    |-- register.html        # Registration Page
+   |    |    
+   |    |
+   |   config.py                      # Provides APP Configuration 
+   |   forms.py                       # Defines Forms (login, register) 
+   |   models.py                      # Defines app models 
+   |   views.py                       # Application Routes 
+   |
+   |-- requirements.txt
+   |-- run.py
+   |
+   |-- ************************************************************************
+```
+
+<br />
+
+## Resources
+
+- Free [Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index provided by AppSeed
+- [Flask User Authentication](https://blog.appseed.us/flask-user-authentication-free-sample/) - blog article 
+ 
+<br />
+
 ---
 
 Flask Social Login - Free sample provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
