@@ -1,4 +1,4 @@
-# Flask Social Login
+# [Flask Social Login](https://blog.appseed.us/flask-social-login-with-github/)
 
 Open-source Flask sample built on top of `flask-dance` library. The project showcases the social login for Github - Features: 
 
@@ -140,5 +140,4 @@ The project has a super simple structure, represented as bellow:
 <br />
 
 ---
-
-Flask Social Login - Free sample provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[Flask Social Login](https://blog.appseed.us/flask-social-login-with-github/) - Free sample provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
