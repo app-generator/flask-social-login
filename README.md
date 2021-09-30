@@ -10,6 +10,10 @@ Open-source Flask sample built on top of `flask-dance` library. The project show
 
 <br />
 
+![Flask Social Login - Free sample provided by AppSeed.](https://user-images.githubusercontent.com/51070104/135398234-06a43c1a-cd0a-45ad-accc-de45061d8945.png)
+
+<br />
+
 ## Build from sources
 
 > **Step #1** - Clone sources (this repo)
