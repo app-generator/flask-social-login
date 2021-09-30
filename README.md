@@ -120,10 +120,9 @@ The project has a super simple structure, represented as bellow:
    |    |    
    |    |
    |   config.py                      # Provides APP Configuration 
-   |   forms.py                       # Defines Forms (login, register) 
-   |   models.py                      # Defines app models 
-   |   views.py                       # Application Routes 
+   |  __init__.py                     # Bootstrap the project
    |
+   |-- .env                           # Injects Github Credentials
    |-- requirements.txt
    |-- run.py
    |
