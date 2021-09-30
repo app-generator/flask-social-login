@@ -1,6 +1,6 @@
 # Flask Social Login
 
-Open-source Flask sample built on top of `flask-dance` library. The project showcases the social login for Github and Google (wip) - Features: 
+Open-source Flask sample built on top of `flask-dance` library. The project showcases the social login for Github - Features: 
 
 - Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
 - `OPENID` Social login over [Flask Dance](https://pypi.org/project/Flask-Dance/)
